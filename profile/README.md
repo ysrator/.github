@@ -1,12 +1,5 @@
-## Hi there 👋
+# ![Yasirator](https://raw.githubusercontent.com/ysrator/ysrator.github.io/gh-pages/favicon.svg) Yasirator
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Hello there! I'm Yasir. I have vanilla JavaScript and NodeJS knowledge. The name of my project is Yasirator. I know it's a very logical name! But we can say that it is the idea of the future. If you've reviewed my repository, consider supporting me. At least I'm developing software at StarBucks, not in my grandmother's basement..  
+[>see my repository here<](https://github.com/ysrator/ysrator.github.io)  
+[>you can contact me here<](yasirator@proton.me)
