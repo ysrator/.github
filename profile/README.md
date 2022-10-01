@@ -1,5 +1,5 @@
 # ![Yasirator](https://raw.githubusercontent.com/ysrator/ysrator.github.io/gh-pages/favicon.svg) Yasirator
 
-Hello there! I'm Yasir. I have vanilla JavaScript and NodeJS knowledge. The name of my project is Yasirator. I know it's a very logical name! But we can say that it is the idea of the future. If you've reviewed my repository, consider supporting me. At least I'm developing software at StarBucks, not in my grandmother's basement..  
-[>see my repository here<](https://github.com/ysrator/ysrator.github.io)  
-[>you can contact me here<](yasirator@proton.me)
+Silav li wir! Ez Yasir im. Min zanîna vanilla JavaScript û NodeJS heye. Navê projeya min Yasirator e. Ez dizanim ew navek pir maqûl e! Lê em dikarin bêjin ku ev ramana pêşerojê ye. Ger we firotgeha min nirxand, piştgirî bidin min. Bi kêmanî ez nermalavê li StarBucks pêşve dixim, ne li jêrzemîna dapîra xwe.
+[>depoya min li vir bibînin<](https://github.com/ysrator/ysrator.github.io)  
+[>tu dikarî li vir bigihîjî min<](yasirator@proton.me)
